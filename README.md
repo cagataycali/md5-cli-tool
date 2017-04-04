@@ -1,10 +1,10 @@
-# Installing
+# Installing
 
 ```
 npm i -g md5-cli
 ```
 
-# Usage
+# Usage
 
 ```
 md5 encrypt me
@@ -21,6 +21,7 @@ MD5=https://ownapp.herokuapp.com md5 encrypt me
 ```
 
 # 4 Self hosted md5 backend:
-<a href="https://github.com/cli-tool/md5-server"></a>
+
+[](https://github.com/cli-tool/md5-server)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/cli-tool/md5-server)
